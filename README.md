@@ -1,6 +1,6 @@
 ### 📟 Currently studying data engineering... 
 
-Interesting in:
+Interested in:
 - Cybersecurity and data security
 - Maths / Statistics
 - Deep Learning
