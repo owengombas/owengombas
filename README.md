@@ -3,5 +3,5 @@
 Interested in:
 - Cybersecurity and data security
 - Maths / Statistics
-- Deep Learning
+- Machine Learning / Deep Learning
 - DevOps and Software Engineering
