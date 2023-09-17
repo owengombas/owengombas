@@ -1,1 +1,1 @@
-### 🎓 Master's in Computer Science student at University of Bern
+### 🎓 Master's student in Computer Science at University of Bern
