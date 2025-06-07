@@ -1,1 +1,1 @@
-### 🎓 Master's student in Computer Science at University of Bern
+### 🇨🇭🇺🇸 Engineer in Computer Science with a Focus on Distributed Systems and Data Science
